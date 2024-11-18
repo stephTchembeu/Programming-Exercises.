@@ -1,2 +1,2 @@
 # Programming-Exercises
-This folder contains exercises for mastering data structures and algorithms in any of the languages considered on the program.
+A 50 Days python challenges to master data structure, string manipulation and other things 
